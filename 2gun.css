@@ -1,0 +1,14 @@
+ #country {
+    text-align: center;
+    color: black;
+    padding: 40px;
+  }
+  .city{
+    background-color: yellow;
+    border: 16px solid tomato;
+    margin: 10px;
+    padding: 20px;
+  }
+  .main{
+    text-align: center;
+  }
